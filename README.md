@@ -5,7 +5,7 @@
 This is a collection of Python (ArcPy) scripts and resources for various GIS-related workflows.
 
 ## Table of Contents
-[ArcGIS Pro | Export All Layouts]
+[ArcGIS Pro | Export All Layouts](https://github.com/kateberg/Adventures-in-ArcPy/blob/master/README.md#arcgis-pro--export-all-layouts)
 
 
 ### ArcGIS Pro | Export All Layouts
